@@ -1,7 +1,7 @@
-d7b7368243655ee5304ada439ca9451a *DESCRIPTION
-7effa637d79decd846a0a621308cd92f *NAMESPACE
+c25b4cbfe6164da84e7c7bd33b366d52 *DESCRIPTION
+a2f973d4508642440a922397320545f9 *NAMESPACE
 44c40b30f892bb85db6c56d93e75e4ac *R/Classification.R
-77dce5a5d732eef51c1cfc010363df7b *R/Count.R
+7967e8f036200816909e52bb6e1d38f3 *R/Count.R
 556b2f37d8641c9ed02933c54ef7c368 *R/MLmetrics.R
 d41d8cd98f00b204e9800998ecf8427e *R/Rank.R
 ade5da8623726eba10bad8bcb98351dc *R/Regression.R
@@ -27,7 +27,7 @@ e594715ad175e7d58740b41d2a3fb0ca *man/MedianAE.Rd
 337cacbd020fdea0ca40f9769e02c3b4 *man/MultiLogLoss.Rd
 ee842fd12312073d812bf0c88fe6c21d *man/NormalizedGini.Rd
 96fc35f78ff2fdccc22de51d895308e6 *man/PRAUC.Rd
-a70115966d9d9ed107edf297c5a7751b *man/Possion_LogLoss.Rd
+abf94a4bd0955312dd7cb8b781099038 *man/Poisson_LogLoss.Rd
 3f0b82a06a53da4e19499280ae8d7ff9 *man/Precision.Rd
 787ec83fe010b999aa235ff1ba14128b *man/R2_Score.Rd
 ae9c96a8338363be60d822347d8cb41e *man/RAE.Rd

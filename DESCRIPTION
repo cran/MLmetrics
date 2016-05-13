@@ -1,7 +1,7 @@
 Package: MLmetrics
 Type: Package
 Title: Machine Learning Evaluation Metrics
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: person("Yachen", "Yan", email = "yanyachen21@gmail.com", role = c("aut", "cre"))
 Description: A collection of evaluation metrics, including loss, score and
     utility functions, that measure regression, classification and ranking performance.
@@ -14,8 +14,8 @@ License: GPL-2
 LazyData: true
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-05-01 11:07:14 UTC; Administrator
+Packaged: 2016-05-09 06:13:55 UTC; Administrator
 Author: Yachen Yan [aut, cre]
 Maintainer: Yachen Yan <yanyachen21@gmail.com>
 Repository: CRAN
-Date/Publication: 2016-05-01 18:32:12
+Date/Publication: 2016-05-13 23:57:26
